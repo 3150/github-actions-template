@@ -2,7 +2,7 @@ name: add tag to repo
 on:
   pull_request:
 
-# this permission id required
+# this permission is required
 # see: https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs
 permissions:
   contents: write
